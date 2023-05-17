@@ -1,0 +1,70 @@
+.fondo
+{
+    background-color: #28A745;
+    color:aliceblue;
+    
+}
+.logo
+{
+    width: 86px;
+    height: 25px;
+}
+.card-title
+{
+    font-family: 'Roboto';
+    font-size: 20px;
+   
+}
+.card-text
+{
+    font-family: 'Roboto';
+    font-size: 16px;
+}
+footer
+{
+    background-color: green;
+}
+
+.d-flex{
+    gap: 20px;
+  }
+  .precios
+  {
+    color: #28a745;
+    font-family: 'Roboto';
+  }
+  .precios1
+  {
+    font-family: 'Roboto';
+  }
+  .descripcion
+  {
+    color: #707070;
+  }
+
+section
+{
+    background-color: #28A745;
+}
+.texto
+{
+color: #FFFFFF;
+font-family: 'Roboto';
+}
+.btn{
+font-family: 'Roboto';
+}
+footer
+{
+    background-color: #FFFFFF;
+}
+.logo2
+{
+    width: 82px;
+    height: 23px;
+}
+.footer_texto
+{
+    color: #707070;
+    font-family: 'Roboto';
+}
